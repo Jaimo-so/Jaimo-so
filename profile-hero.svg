@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">HaooRan — AI Product Manager and AI Builder</title>
+  <desc id="desc">Warm editorial profile banner with a coral AI Builder label and the statement: 把 AI 能力，变成用户愿意使用的产品。</desc>
+  <defs>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0V56" fill="none" stroke="#ddd9cf" stroke-width="1" opacity="0.68"/>
+    </pattern>
+    <style>
+      .serif { font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", "Songti SC", serif; }
+      .sans { font-family: Inter, Geist, -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="440" rx="24" fill="#f5f4ed"/>
+  <rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="438" rx="23" fill="none" stroke="#ddd9cf" stroke-width="2"/>
+
+  <g transform="translate(72 62)">
+    <rect width="142" height="34" rx="17" fill="#c96442" fill-opacity="0.07" stroke="#c96442" stroke-opacity="0.36"/>
+    <circle cx="18" cy="17" r="4" fill="#c96442"/>
+    <text x="32" y="22" class="sans" font-size="14" font-weight="600" fill="#c96442">AI Builder</text>
+
+    <text x="0" y="148" class="serif" font-size="54" font-weight="500" fill="#141413">把 AI 能力，变成</text>
+    <text x="0" y="216" class="serif" font-size="54" font-weight="500" fill="#141413">用户愿意使用的产品。</text>
+
+    <text x="2" y="276" class="sans" font-size="18" fill="#5e5d59">AI 产品经理 · AI Builder · 生成式 AI / 用户体验 / 产品增长</text>
+    <line x1="0" y1="322" x2="702" y2="322" stroke="#c9c4b8"/>
+    <text x="0" y="358" class="sans" font-size="13" letter-spacing="1.6" fill="#87867f">THINK CLEARLY · BUILD QUICKLY · LEARN IN PUBLIC</text>
+  </g>
+
+  <g transform="translate(866 72)">
+    <rect width="260" height="296" rx="18" fill="#faf9f5" stroke="#ddd9cf"/>
+    <text x="28" y="46" class="serif" font-size="26" font-weight="600" fill="#141413">HaooRan</text>
+    <text x="28" y="72" class="sans" font-size="11" letter-spacing="1.5" fill="#c96442">AI PRODUCT MANAGER</text>
+    <line x1="28" y1="100" x2="232" y2="100" stroke="#ddd9cf"/>
+
+    <text x="28" y="139" class="sans" font-size="12" fill="#87867f">01</text>
+    <text x="66" y="139" class="serif" font-size="17" fill="#141413">产品判断</text>
+    <text x="28" y="188" class="sans" font-size="12" fill="#87867f">02</text>
+    <text x="66" y="188" class="serif" font-size="17" fill="#141413">原型实验</text>
+    <text x="28" y="237" class="sans" font-size="12" fill="#87867f">03</text>
+    <text x="66" y="237" class="serif" font-size="17" fill="#141413">学习复盘</text>
+
+    <circle cx="30" cy="268" r="3" fill="#c96442"/>
+    <text x="43" y="273" class="sans" font-size="12" fill="#5e5d59">Open to opportunities</text>
+  </g>
+</svg>
