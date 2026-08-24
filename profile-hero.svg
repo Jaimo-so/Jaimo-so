@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
-  <title id="title">HaooRan — AI Product Manager and AI Builder</title>
+  <title id="title">HaoRan — AI Product Manager and AI Builder</title>
   <desc id="desc">Warm editorial profile banner with a coral AI Builder label and the statement: 把 AI 能力，变成用户愿意使用的产品。</desc>
   <defs>
     <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
@@ -30,7 +30,7 @@
 
   <g transform="translate(866 72)">
     <rect width="260" height="296" rx="18" fill="#faf9f5" stroke="#ddd9cf"/>
-    <text x="28" y="46" class="serif" font-size="26" font-weight="600" fill="#141413">HaooRan</text>
+    <text x="28" y="46" class="serif" font-size="26" font-weight="600" fill="#141413">HaoRan</text>
     <text x="28" y="72" class="sans" font-size="11" letter-spacing="1.5" fill="#c96442">AI PRODUCT MANAGER</text>
     <line x1="28" y1="100" x2="232" y2="100" stroke="#ddd9cf"/>
 
