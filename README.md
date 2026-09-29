@@ -34,7 +34,7 @@
 | 产品判断 | 原型与构建 | 知识沉淀 |
 | --- | --- | --- |
 | 从用户任务、使用场景和价值链路出发，判断一个 AI 产品为什么成立。 | 把需求与交互思路快速做成可操作原型，用真实体验验证关键路径。 | 把调研、决策和复盘写下来，让每次学习成为下一次实践的起点。 |
-| `ChatGPT` · `Perplexity` | `Figma` · `Cursor` · `Codex` | `飞书` · `Notion` · `Markdown` |
+| `ChatGPT` · `Perplexity` | `Figma` · `Cursor` · `Codex` | `飞书` · `Obsidian` · `Markdown` |
 
 ## 最近思考 · Latest writing
 
