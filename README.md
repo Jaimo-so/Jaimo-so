@@ -26,7 +26,7 @@
 
 | 01 · 产品与表达 | 02 · 原生工具 |
 | --- | --- |
-| **[HaoRan Personal Site](https://github.com/Jaimo-so/haoran-personal-site)**<br><sub>AI 产品经理个人网站与文章管理后台。用长期写作呈现产品判断，用完整页面承接个人品牌。</sub> | **[Jaimo Flow](https://github.com/Jaimo-so/Jaimo-Flow)**<br><sub>原生、本地优先的 macOS 个人工具站，集成剪贴板、提示词、录音、摄像头检查与应用启动器。</sub> |
+| **[影伴](https://github.com/Jaimo-so/yingban)**<br><sub>AI 产品经理个人网站与文章管理后台。用长期写作呈现产品判断，用完整页面承接个人品牌。</sub> | **[Jaimo Flow](https://github.com/Jaimo-so/Jaimo-Flow)**<br><sub>原生、本地优先的 macOS 个人工具站，集成剪贴板、提示词、录音、摄像头检查与应用启动器。</sub> |
 | **[个人 IP 配图 Skill](https://github.com/Jaimo-so/personal-ip-illustrations)**<br><sub>为中文文章生成统一个人形象的正文配图，把内容工作流沉淀成可复用的 Codex Skill。</sub> | **[DeepSeek Usage](https://github.com/Jaimo-so/dsh-deepseek-usage)**<br><sub>DeepSeek 用量与余额插件，用清晰的信息层级呈现余额、Token 消耗和月度趋势。</sub> |
 
 ## 我如何工作 · How I work
